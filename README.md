@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 My name is Sandra</h1>
 
 
-- 🔭Currently studying [Mathematics and Data Science](https://ww2.mini.pw.edu.pl/studia/inzynierskie-i-licencjackie/matematyka-i-analiza-danych/) at [Warsaw University of Technology](https://www.pw.edu.pl/), 2nd year. Learning subjects like: Exploratory Data Analysis, Probability, Statistics, Numerical Methods. As a student in the field of data analysis, I want to develop further in the field of data science and programming. 
+- 🔭Currently studying [Mathematics and Data Science](https://ww2.mini.pw.edu.pl/studia/inzynierskie-i-licencjackie/matematyka-i-analiza-danych/) at [Warsaw University of Technology](https://www.pw.edu.pl/), 3rd year. Learning subjects like: Exploratory Data Analysis, Probability, Statistics, Numerical Methods. As a student in the field of data analysis, I want to develop further in the field of data science and programming. 
 
 - 🤝 Feeling great in Big Data and developing my skills with every opportunity. I really enjoy working with data – analyzing and visualizing it.   
 
